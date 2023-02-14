@@ -1,5 +1,5 @@
 import streamlit
-Import pandas
+import pandas
 
 My_fruit_list = pandas.read_csv("https://uni-lab-files.s3.us-west-2.Amazon aws.com/dabw/fruit_macros.txt")
 
